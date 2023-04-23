@@ -29,5 +29,3 @@ https://zap.convertte.com.br/gerador-link-whatsapp/.
   9. Ask if the customer will pick up the order or wants it delivered.
   10. If yes, ask for the address and inform the delivery fee; if not, inform the wait time and the address of the pizzeria.
   11. Thank the customer for choosing the pizzeria and ask them to wait.
-  ## Uso
-  ### Instalar
