@@ -5,17 +5,19 @@ The trigger message link can be created through this website
 https://zap.convertte.com.br/gerador-link-whatsapp/.
 
 ## Usage:
-### Install: 
   - Instal the dependencies:
   ```
   npm install
 ```
-
-
-## Tutorial:
-  - The trigger message must be passed to the variable named <trigger>
+  - Start the application
+  ```
+  npm start
+```
+    
+### Tutorial:
+  - The trigger message must be passed to the variable named "gatilho".
   - Scan the QR code generated in the terminal on the WhatsApp you want to host the bot.
-  - Send the trigger message to the contact where the login was performed
+  - Send the trigger message to the contact where the login was performed.
 
 ## Conversation Flow:
   1. Welcome the user.
